@@ -1,0 +1,45 @@
+h1{
+    color: green;
+    font-family:sans-serif;
+}
+
+p{
+    color: coral;
+}
+
+ul{
+    list-style-type: square;
+} 
+  
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+#menu-bar :hover{
+    background-color: aqua;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+ 
+
+    
+    
+    
+
+    
+
+
+    
+    
+        
+    
+
+    
